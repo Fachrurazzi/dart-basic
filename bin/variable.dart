@@ -1,5 +1,5 @@
 void main() {
-  // St ring name;
+  // String name;
   // name = "Fachrurazzi";
 
   // String name = "Fachrurazzi";
