@@ -7,10 +7,10 @@ String filterBadWord(String name) {
   if (name == 'goblok') {
     return '****';
   } else {
-    return name;
+    return name.toUpperCase();
   }
 }
 
 void main() {
-  sayHello('goblok', filterBadWord);
+  sayHello('Andika', filterBadWord);
 }
